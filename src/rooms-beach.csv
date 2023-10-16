@@ -1,0 +1,21 @@
+RoomNumber,Type,PricePerNight,CancellationFee,Status
+101,1 bed,10,5,available
+102,2 bed,20,15,available
+103,apartment,30,25,available
+104,1 bed,10,5,available
+105,2 bed,20,15,available
+201,1 bed,10,5,available
+202,2 bed,20,15,available
+203,apartment,30,25,available
+204,1 bed,10,5,available
+205,2 bed,20,15,available
+301,1 bed,10,5,available
+302,2 bed,20,15,available
+303,apartment,30,25,available
+304,1 bed,10,5,available
+305,2 bed,20,15,available
+401,1 bed,10,5,available
+402,2 bed,20,15,available
+403,apartment,30,25,available
+404,1 bed,10,5,available
+405,2 bed,20,15,available

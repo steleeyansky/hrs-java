@@ -1,0 +1,16 @@
+RoomNumber,Type,PricePerNight,CancellationFee,Status
+101,1 bed,50,45,booked
+102,2 bed,60,55,available
+103,apartment,70,65,booked
+104,1 bed,50,45,booked
+105,2 bed,60,55,available
+201,1 bed,50,45,booked
+202,2 bed,60,55,booked
+203,apartment,70,65,available
+204,1 bed,50,45,booked
+205,2 bed,60,55,available
+301,1 bed,50,45,booked
+302,2 bed,60,55,booked
+303,apartment,70,65,booked
+304,1 bed,50,45,booked
+305,2 bed,60,55,booked
